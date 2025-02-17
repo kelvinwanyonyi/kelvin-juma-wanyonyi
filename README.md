@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kelvin Juma Wanyonyi</h1>
-<h3 align="center">ML Data Engineer/Data Science/Data Analyst/Backend developer</h3>
+<h3 align="center">ERP Admin|System Admin|ML Data Engineer/Data Science/Data Analyst/Backend developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kelvinwanyonyi" alt="kelvinwanyonyi" /></a> </p>
 
